@@ -52,6 +52,11 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.2;
     text-align:center;
 }
+.grid-container {
+  display: grid;
+  column-gap: 50px;
+}
+
 p{
   text-align:center;
 }
