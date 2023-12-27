@@ -290,7 +290,7 @@ a{
  }
  .logo a {
     font-family: 'Montserrat', sans-serif;
-	color: #fff;
+	color: #306844;
 	display: inline-block;
 	font-size: 32px;
 	font-weight: 800;
@@ -314,7 +314,7 @@ a{
      position: relative;
  }
  .main-menu ul.navbar-nav li a {
-     color: black;
+     color: #306844;
      font-weight: 500;
      font-size: 12px;
      padding: 30px 13px;
@@ -329,7 +329,7 @@ a{
      margin-top: 15px;
  }
  .custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li a {
-     color: #444;
+     color: #306844;
      padding: 25px 13px;
  }
 .logo a span {
@@ -338,7 +338,7 @@ a{
      padding: 9px 5px 8px 7px;
  }
  .custom-navbar.top-nav-collapse {
-     background: #fff;
+     background: #306844;
      box-shadow: 0 0 10px #222;
      border-width: 0;
  }
@@ -1271,7 +1271,7 @@ h3.comment-form-title{
 ==================================================*/
  
  .footer {
-     background-color: #222;
+     background-color: #306844;
      padding: 20px 0;
  }
  .footer p {
