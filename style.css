@@ -314,7 +314,7 @@ a{
      position: relative;
  }
  .main-menu ul.navbar-nav li a {
-     color: #306844;
+     color: #000;
      font-weight: 500;
      font-size: 12px;
      padding: 30px 13px;
@@ -329,7 +329,7 @@ a{
      margin-top: 15px;
  }
  .custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li a {
-     color: #306844;
+     color: #000;
      padding: 25px 13px;
  }
 .logo a span {
