@@ -56,7 +56,12 @@ h1, h2, h3, h4, h5, h6 {
   display: grid;
   column-gap: 50px;
 }
-
+img, canvas, svg {
+  max-width: 100%;
+  height: auto;
+  transform: scale(1.2);
+  transform-origin: center;
+}
 p{
   text-align:center;
 }
@@ -1305,3 +1310,4 @@ h3.comment-form-title{
   text-align: center;
   display:inline-block;
 }
+
